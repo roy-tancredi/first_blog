@@ -11,6 +11,7 @@ colorama==0.4.4
 decorator==4.4.2
 defusedxml==0.6.0
 Django==3.1.4
+django-crispy-forms==1.10.0
 entrypoints==0.3
 ipykernel==5.4.2
 ipython==7.19.0
@@ -38,6 +39,7 @@ packaging==20.8
 pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5
+Pillow==8.0.1
 prometheus-client==0.9.0
 prompt-toolkit==3.0.8
 pycodestyle==2.6.0
